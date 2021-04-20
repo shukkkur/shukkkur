@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning everything.
 - 💞️ I’m looking to collaborate on any data science/data analysis related projects.
 - 🥅 2021 Goals: Land an internship in the field of Data Science. 
+- ⚡ More about me on my [website](http://sabzalievshakh.000webhostapp.com/)
 
 ### Connect with me:
 
