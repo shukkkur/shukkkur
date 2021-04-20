@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning, statistics and volleyballl.
 - 🌱 I’m currently learning everything.
 - 💞️ I’m looking to collaborate on any data science/data analysis related projects.
-- 🥅 2021 Goals: Land an cool internship in the field of Data Science. 
+- 🥅 2021 Goals: Land an internship in the field of Data Science. 
 
 ### Connect with me:
 
