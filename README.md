@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Instagram" width="22px" src="https://iconape.com/wp-content/files/ak/70032/svg/instagram-2-1.svg" />][instagram]
-[<img align="left" alt="Outlook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Outlook.com_icon_%282012-2018%29.svg/1200px-Outlook.com_icon_%282012-2018%29.svg.png" />][outlook]
+[<img align="left" alt="Outlook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Outlook.com_icon_%282012-2018%29.svg/1200px-Outlook.com_icon_%282012-2018%29.svg.png" />](mailto:outlook)
 [<img align="left" alt="CodeForces" width="22px" src="https://www.ime.usp.br/~arcjr/image/codeforces.png" />][codeforces]
 [<img align="left" alt="HeadHunter" width="22px" src="https://static.tildacdn.com/tild3463-3135-4335-a266-316361343437/Untitled-1-01.png" />][hh]
 
