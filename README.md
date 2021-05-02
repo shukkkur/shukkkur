@@ -5,8 +5,6 @@
 - 🥅 2021 Goals: Land an internship in the field of Data Science. 
 - ⚡ More about me on my [website](https://shukkkur.github.io/)
 
-<img height="142em" width="340em" src="https://github-readme-stats.vercel.app/api?username=shukkkur"/>
-
 ### Connect with me:
 
 [<img align="left" alt="Instagram" width="22px" src="https://iconape.com/wp-content/files/ak/70032/svg/instagram-2-1.svg" />][instagram]
@@ -22,4 +20,5 @@
 shukkkur/shukkkur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 <img height="150em" width="340em" src="https://github-readme-stats.vercel.app/api?username=shukkkur&theme=vue&show_icons=true"/>
+<img height="142em" width="340em" src="https://github.com/anuraghazra/github-readme-stats">
 --->
