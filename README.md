@@ -5,7 +5,7 @@
 - 🥅 2021 Goals: Land an internship in the field of Data Science. 
 - ⚡ More about me on my [website](https://shukkkur.github.io/)
 
-<img height="142em" width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shukkkur&theme=vue&layout=compact"/>
+<img height="142em" width="340em" src="https://github-readme-stats.vercel.app/api?username=shukkkur"/>
 
 ### Connect with me:
 
