@@ -1,6 +1,6 @@
 ### Hi there, I’m Shukkkur
 ![](https://komarev.com/ghpvc/?username=shukkkur)
-- 👀 I’m interested in machine learning, data analysis and volleyballl.
+- 👀 I’m interested in machine learning, data analysis and volleyball.
 - 🌱 I’m currently learning statistics, data structures, sklearn, python for data analysis and taking courses on Datacamp.
 - 💞️ I’m looking to collaborate/work on any data science related projects.
 - 🥅 2021 Goals: Land an internship in the field of Data Science. 
