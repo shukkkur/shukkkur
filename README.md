@@ -1,4 +1,5 @@
-### Hi there, I’m Shukkkur
+<h3 >Hi there, I’m Shukur</h3>
+
 ![](https://komarev.com/ghpvc/?username=shukkkur)
 - 👀 I’m interested in machine learning, data analysis and volleyball.
 - 🌱 I’m currently learning statistics, data structures, sklearn, python for data analysis and taking courses on Datacamp.
