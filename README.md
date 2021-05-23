@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=shukkkur)
 - 👀 I’m interested in machine learning, data analysis and volleyball.
 - 🌱 I’m currently learning statistics, data structures, sklearn, python for data analysis and taking courses on Datacamp.
-- 📖 Currently reading "Apology, Crito and Phaedo of Socrates", "The Seven Principles for making Marriage Work", "The Way of Superior Man", "The Philosophy of Batman", "Emotional Intelligence" and "Big Data - A Revolution" .
+- 📖 Currently reading "Apology, Crito and Phaedo of Socrates", "The Seven Principles for making Marriage Work", "The Way of Superior Man", "The Philosophy of Batman", "Emotional Intelligence", "Big Data - A Revolution" and "The Art of Statistics".
 - 💞️ Looking to collaborate/work on any data science related projects.
 - 🥅 2021 Goals: Land an internship in the field of Data Science. 
 - ⚡ More about me on my [website](https://shukkkur.github.io/)
