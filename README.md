@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shukkkur" />
 </a>
 
-### Connect with me:
+### Feel Free to Connect with me:
 
 [<img align="left" alt="Instagram" width="22px" src="https://iconape.com/wp-content/files/ak/70032/svg/instagram-2-1.svg" />][instagram]
 [<img align="left" alt="Outlook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" />](mailto:shakhansho.sabzaliev_2023@ucentralasia.org)
