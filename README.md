@@ -18,6 +18,7 @@
 [<img align="left" alt="Outlook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" />](mailto:shakhansho.sabzaliev_2023@ucentralasia.org)
 [<img align="left" alt="CodeForces" width="22px" src="https://www.ime.usp.br/~arcjr/image/codeforces.png" />][codeforces]
 [<img align="left" alt="HeadHunter" width="22px" src="https://static.tildacdn.com/tild3463-3135-4335-a266-316361343437/Untitled-1-01.png" />][hh]
+[<img align="left" alt="Kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][hh]
 
 [instagram]: https://www.instagram.com/sabzero__
 [outlook]: shakhansho.sabzaliev_2023@ucentralasia.org
