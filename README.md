@@ -1,7 +1,7 @@
 <h3 >Hi there, I’m Shukur</h3>
 
 ![](https://komarev.com/ghpvc/?username=shukkkur)
-- 👀 I’m interested in machine learning, data analysis and volleyball.
+- 👀 I’m interested in machine learning, statistics and volleyball.
 - 🌱 I’m currently learning statistics, sign language, sklearn, python for data analysis, how to write with my right hand, PowerBI and taking courses on Datacamp.
 - 📖 Currently reading "The Seven Principles for making Marriage Work", "The Problems of Philosophy" and "The Art of Statistics".
 - 💞️ Looking to collaborate/work on any data science related projects.
