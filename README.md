@@ -20,7 +20,7 @@
 [<img align="left" alt="HeadHunter" width="22px" src="https://static.tildacdn.com/tild3463-3135-4335-a266-316361343437/Untitled-1-01.png" />][hh]
 [<img align="left" alt="Kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][kaggle]
 
-[instagram]: https://www.instagram.com/sabzero__
+[instagram]: https://www.instagram.com/shukkkkur/
 [outlook]: shakhansho.sabzaliev_2023@ucentralasia.org
 [codeforces]: https://codeforces.com/profile/Shukkkur
 [hh]: https://hh.ru/resume/d6a613eaff07dd96660039ed1f7364664d6362
