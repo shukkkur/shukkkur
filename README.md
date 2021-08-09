@@ -19,7 +19,7 @@
 [<img align="left" alt="CodeForces" width="22px" src="https://www.ime.usp.br/~arcjr/image/codeforces.png" />][codeforces]
 [<img align="left" alt="HeadHunter" width="22px" src="https://static.tildacdn.com/tild3463-3135-4335-a266-316361343437/Untitled-1-01.png" />][hh]
 [<img align="left" alt="Kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][kaggle]
-[<img align="left" alt="Stackoverflow" width="102px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stack_Overflow_logo.svg/1280px-Stack_Overflow_logo.svg.png" />][stackoverflow]
+[<img align="left" alt="Stackoverflow" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/stackoverflow-2752065-2284882.png" />][stackoverflow]
 
 [instagram]: https://www.instagram.com/shukkkkur/
 [outlook]: shakhansho.sabzaliev_2023@ucentralasia.org
