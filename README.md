@@ -28,6 +28,8 @@
 <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" alt="sqlalchemy" width="72" height="32"/> </a>
 <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank"> <img src="https://funthon.files.wordpress.com/2017/05/bs.png" alt="bs4" width="72" height="32"/> </a>
 <a href="https://scikit-image.org/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_c0781be8e9c61282d0220a8e8a56243b/scikit-image.png" alt="skimage" width="82" height="32"/> </a>
+<a href="https://pillow.readthedocs.io/en/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/python-pillow/pillow-logo/master/pillow-logo-248x250.png" alt="pillow" width="32" height="32"/> </a>
+
 
 ### Feel Free to Connect with me:
 
