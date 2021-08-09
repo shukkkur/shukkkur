@@ -22,8 +22,12 @@
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="32" height="32"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="32" height="32"/> </a> 
 <a href="https://numpy.org/doc/stable/" target="_blank"> <img src="https://user-images.githubusercontent.com/1217238/65354639-dd928f80-dba4-11e9-833b-bc3e8c6a737d.png" alt="numpy" width="62" height="32"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="pandas" width="62" height="32"/> </a> 
-
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="pandas" width="62" height="32"/> </a>
+<a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="62" height="32"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" alt="seaborn" width="32" height="32"/> </a>
+<a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" alt="sqlalchemy" width="72" height="32"/> </a>
+<a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank"> <img src="https://funthon.files.wordpress.com/2017/05/bs.png" alt="bs4" width="72" height="32"/> </a>
+<a href="https://scikit-image.org/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_c0781be8e9c61282d0220a8e8a56243b/scikit-image.png" alt="skimage" width="82" height="32"/> </a>
 
 ### Feel Free to Connect with me:
 
