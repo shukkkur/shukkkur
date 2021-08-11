@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=shukkkur)
 - 👀 I’m interested in machine learning, statistics and volleyball.
 - 🌱 I’m currently learning statistics, sign language, sklearn, OpenCV, python for data analysis, how to write with my right hand and taking courses on Datacamp.
-- 📖 Currently reading "The Seven Principles for making Marriage Work", "The Problems of Philosophy" and "The Art of Statistics".
+- 📖 Currently reading "The Seven Principles for making Marriage Work", "The Problems of Philosophy", "The Court of Monte Cristo" and "Murder on the Orient Express".
 - 💞️ Looking to collaborate/work on any data science related projects.
 - 🥅 2021 Goals: Land an internship in the field of Data Science. 
 - ⚡ More about me on my [website](https://shukkkur.github.io/)
