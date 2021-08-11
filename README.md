@@ -18,7 +18,7 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="32" height="32"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="32" height="32"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="32" height="32"/> </a></p>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/> </a>
+<p align="left"><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/> </a>
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="32" height="32"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="32" height="32"/> </a> 
 <a href="https://numpy.org/doc/stable/" target="_blank"> <img src="https://user-images.githubusercontent.com/1217238/65354639-dd928f80-dba4-11e9-833b-bc3e8c6a737d.png" alt="numpy" width="62" height="32"/> </a> 
@@ -28,7 +28,10 @@
 <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" alt="sqlalchemy" width="72" height="32"/> </a>
 <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank"> <img src="https://funthon.files.wordpress.com/2017/05/bs.png" alt="bs4" width="72" height="32"/> </a>
 <a href="https://scikit-image.org/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_c0781be8e9c61282d0220a8e8a56243b/scikit-image.png" alt="skimage" width="82" height="32"/> </a>
-<a href="https://pillow.readthedocs.io/en/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/python-pillow/pillow-logo/master/pillow-logo-248x250.png" alt="pillow" width="32" height="32"/> </a>
+<a href="https://pillow.readthedocs.io/en/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/python-pillow/pillow-logo/master/pillow-logo-248x250.png" alt="pillow" width="32" height="32"/> </a></p>
+<a href="https://www.google.com/" target="_blank"> <img src="https://burhanstudio.com/wp-content/uploads/2021/03/New-Google-Chrome-Logo-Google-Search-Logo-Concept.png" alt="professional google searcher" width="82" height="32"/> </a>
+
+
 
 
 ### Feel Free to Connect with me:
