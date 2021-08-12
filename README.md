@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://www.npmjs.com/package/react-router"><img src="https://komarev.com/ghpvc/?username=shukkkur"></a
+</p>
+
 <h1 align="center">Hi, I'm Shukur</h1>
 <h3 align="center">Today's Student - Tomorrow's Data Scientist</h3>
 
