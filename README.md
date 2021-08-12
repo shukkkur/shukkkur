@@ -1,11 +1,9 @@
+<h2 align="center">Hi, I'm Shukur</h2>
+<h3 align="center", padding-top=-1000>Today's Student - Tomorrow's Data Scientist</h3>
 <p align="center">
-  <a href="https://www.npmjs.com/package/react-router"><img src="https://komarev.com/ghpvc/?username=shukkkur"></a
+  <img src="https://komarev.com/ghpvc/?username=shukkkur"></a
 </p>
 
-<h1 align="center">Hi, I'm Shukur</h1>
-<h3 align="center">Today's Student - Tomorrow's Data Scientist</h3>
-
-![](https://komarev.com/ghpvc/?username=shukkkur)
 - 👀 I’m interested in machine learning, statistics and volleyball.
 - 🌱 I’m currently learning statistics, sign language, sklearn, OpenCV, python for data analysis, how to write with my right hand and taking courses on Datacamp.
 - 📖 Currently reading "The Seven Principles for making Marriage Work", "The Problems of Philosophy", "The Court of Monte Cristo" and "Murder on the Orient Express".
