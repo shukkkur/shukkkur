@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in machine learning, statistics and volleyball.
 - 🌱 I’m currently learning statistics, sign language, sklearn, OpenCV, python for data analysis, how to write with my right hand and taking courses on Datacamp.
-- 📖 Currently reading "The Seven Principles for making Marriage Work", "The Problems of Philosophy", "Ten Little Indians" and "Metaphysics, The Logical Approach".
+- 📖 Currently reading "The Seven Principles for making Marriage Work", "The Problems of Philosophy", "Ten Little Niggers" and "Metaphysics, The Logical Approach".
 - 💞️ Looking to collaborate/work on any data science related projects.
 - 🥅 2021 Goals: Land an internship in the field of Data Science. 
 - ⚡ More about me on my [website](https://shukkkur.github.io/)
