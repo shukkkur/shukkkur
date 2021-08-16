@@ -51,7 +51,7 @@
 [codeforces]: https://codeforces.com/profile/Shukkkur
 [hh]: https://hh.ru/resume/d6a613eaff07dd96660039ed1f7364664d6362
 [kaggle]: https://www.kaggle.com/shukkur
-[stackoverflow]: https://stackoverflow.com/users/12289244/sabzaliev-shohansho
+[stackoverflow]: https://stackoverflow.com/users/12289244/sabzaliev-shohansho?tab=profile
 
 <!---
 shukkkur/shukkkur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
