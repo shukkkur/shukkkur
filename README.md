@@ -44,6 +44,8 @@
 [<img align="left" alt="HeadHunter" width="22px" src="https://static.tildacdn.com/tild3463-3135-4335-a266-316361343437/Untitled-1-01.png" />][hh]
 [<img align="left" alt="Kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][kaggle]
 [<img align="left" alt="Stackoverflow" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/stackoverflow-2752065-2284882.png" />][stackoverflow]
+[<img align="left" alt="Stackoverflow" width="22px" src="https://cdn.worldvectorlogo.com/logos/vk-com-logo.svg" />][vk]
+
 <br>
 
 [instagram]: https://www.instagram.com/shukkkkur/
@@ -52,6 +54,7 @@
 [hh]: https://hh.ru/resume/d6a613eaff07dd96660039ed1f7364664d6362
 [kaggle]: https://www.kaggle.com/shukkur
 [stackoverflow]: https://stackoverflow.com/users/12289244/sabzaliev-shohansho?tab=profile
+[vk]: https://vk.com/shukkkur
 
 <!---
 shukkkur/shukkkur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
