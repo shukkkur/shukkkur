@@ -39,12 +39,12 @@
 ### Feel Free to Connect with me:
 
 [<img align="left" alt="Instagram" width="22px" src="https://iconape.com/wp-content/files/ak/70032/svg/instagram-2-1.svg" />][instagram]
+[<img align="left" alt="Stackoverflow" width="22px" src="https://cdn.worldvectorlogo.com/logos/vk-com-logo.svg" />][vk]
 [<img align="left" alt="Outlook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" />](mailto:shakhansho.sabzaliev_2023@ucentralasia.org)
 [<img align="left" alt="CodeForces" width="22px" src="https://www.ime.usp.br/~arcjr/image/codeforces.png" />][codeforces]
 [<img align="left" alt="HeadHunter" width="22px" src="https://static.tildacdn.com/tild3463-3135-4335-a266-316361343437/Untitled-1-01.png" />][hh]
 [<img align="left" alt="Kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][kaggle]
 [<img align="left" alt="Stackoverflow" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/stackoverflow-2752065-2284882.png" />][stackoverflow]
-[<img align="left" alt="Stackoverflow" width="22px" src="https://cdn.worldvectorlogo.com/logos/vk-com-logo.svg" />][vk]
 
 <br>
 
