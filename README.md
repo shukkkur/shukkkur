@@ -23,6 +23,7 @@
 <p align="left"><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/> </a>
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="32" height="32"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="32" height="32"/> </a> 
+<a href="https://www.sktime.org/en/stable/" target="_blank"> <img src="https://www.sktime.org/en/v0.6.0/_images/sktime-logo-no-text.jpg" alt="sktime" width="32" height="32"/> </a>
 <a href="https://numpy.org/doc/stable/" target="_blank"> <img src="https://user-images.githubusercontent.com/1217238/65354639-dd928f80-dba4-11e9-833b-bc3e8c6a737d.png" alt="numpy" width="62" height="32"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="pandas" width="62" height="32"/> </a>
 <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="62" height="32"/> </a>
