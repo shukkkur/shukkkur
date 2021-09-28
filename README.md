@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning statistics, sign language, sklearn, OpenCV, python for data analysis, how to write with my right hand and taking courses on Datacamp.
 - 📖 Currently reading "Family & Islam", "The Problems of Philosophy", "Waiting and Dating" and "Contemporary Ethics".
 - 💞️ Looking to collaborate/work on any data science related projects.
-- 🥅 2021 Goals: Read ~~10~~ 15 non-finction books and land an internship in the field of Data Science. 
+- 🥅 2021 Goals: Read ~~10~~ 15 non-finction books and ~~land an internship in the field of Data Science~~. 
 - ⚡ More about me on my [website](https://shukkkur.github.io/)
 
 <a href="https://github.com/anuraghazra/convoychat">
