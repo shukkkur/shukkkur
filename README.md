@@ -11,10 +11,12 @@
 - 🥅 2021 Goals: Read ~~10~~ 15 non-finction books and ~~land an internship in the field of Data Science~~. 
 - ⚡ More about me on my [website](https://shukkkur.github.io/)
 
-<a href="https://github.com/anuraghazra/convoychat">
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shukkkur&theme=tokyonight) 
+<!--  &hide=javascript,css,scss,html -->
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shukkkur" />
 </a>
-
+ -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="32" height="32"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="32" height="32"/> </a> 
