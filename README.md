@@ -51,7 +51,7 @@
 
 <br>
 
-[instagram]: https://www.instagram.com/shukkkkur/
+[instagram]: https://www.instagram.com/shukkkkkur/
 [outlook]: shakhansho.sabzaliev_2023@ucentralasia.org
 [codeforces]: https://codeforces.com/profile/Shukkkur
 [hh]: https://hh.ru/resume/d6a613eaff07dd96660039ed1f7364664d6362
