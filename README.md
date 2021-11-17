@@ -9,7 +9,7 @@
 - 📖 Currently reading "Family & Islam", "The Problems of Philosophy", "Aristotle" and "Contemporary Ethics".
 - 💞️ ~~Looking to collaborate/work on any data science related projects.~~
 - 🥅 2021 Goals: Read ~~10~~ 15 non-finction books and ~~land an internship in the field of Data Science~~. 
-- ⚡ More about me on my [website](https://shukkkur.github.io/)
+- ⚡ More about me on my [webpage](https://shukkkur.github.io/)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shukkkur&theme=tokyonight) 
 <!--  &hide=javascript,css,scss,html -->
