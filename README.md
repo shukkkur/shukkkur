@@ -5,7 +5,7 @@
 </p>
 
 - 👀 I’m interested in Machine Learning, Statistics, Philosophy and Volleyball.
-- 🌱 I’m currently learning statistics, sign language, sklearn, OpenCV, python for data analysis, how to write with my right hand and taking courses on Datacamp.
+- 🌱 I’m currently learning statistics, sklearn, OpenCV, python for data analysis, how to write with my right hand and learning ASL. 
 - 📖 Currently reading "Family & Islam", "Aristotle", "Contemporary Ethics" and "Psycology of Money".
 - 💞️ ~~Looking to collaborate/work on any data science related projects.~~
 - 🥅 2021 Goals: Read ~~10~~ 15 non-finction books and ~~land an internship in the field of Data Science~~. 
