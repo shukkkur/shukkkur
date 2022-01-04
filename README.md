@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning statistics, sklearn, python for data analysis, how to write with my right hand and Kyrgyz language. 
 - 📖 Currently reading "Family & Islam", "Aristotle", "Contemporary Ethics" and "Psycology of Money".
 - 💞️ ~~Looking to collaborate/work on any data science related projects.~~
-- 🥅 2021 Goals: Read ~~10~~ 15 non-finction books and ~~land an internship in the field of Data Science~~. 
+- 🥅 2022 Goals: Read 15 non-finction books and become Emotionally Intelligent. 
 - ⚡ More about me on my [webpage](https://shukkkur.github.io/)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shukkkur&theme=tokyonight) 
