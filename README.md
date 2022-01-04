@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=shukkkur"></a>
 </p>
 
-- 👀 I’m interested in Machine Learning, Statistics, Philosophy and Volleyball.
+- 👀 I’m interested in Computer Vision, Statistics, Philosophy and Volleyball.
 - 🌱 I’m currently learning statistics, sklearn, python for data analysis, how to write with my right hand and Kyrgyz language. 
 - 📖 Currently reading "Family & Islam", "Aristotle", "Contemporary Ethics" and "Psycology of Money".
 - 💞️ ~~Looking to collaborate/work on any data science related projects.~~
