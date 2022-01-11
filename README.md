@@ -5,7 +5,7 @@
 </p>
 
 - 👀 I’m interested in Computer Vision, Statistics, Morality and Volleyball.
-- 🌱 I’m currently learning statistics, sklearn, python for data analysis, how to write with my right hand and Kyrgyz language. 
+- 🌱 I’m currently learning statistics, django, python for data analysis, how to write with my right hand, Kyrgyz and Persian languages. 
 - 📖 Currently reading "Family & Islam", "Aristotle", "Contemporary Ethics" and "Psycology of Money".
 - 💞️ ~~Looking to collaborate/work on any data science related projects.~~
 - 🥅 2022 Goals: Read 15 non-finction books and become Emotionally Intelligent. 
