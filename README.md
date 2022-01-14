@@ -9,7 +9,8 @@
 - 📖 Currently reading "Family & Islam", "Contemporary Ethics", "Psycology of Money" and "Critique of Judgement" by I. Kant.
 - 💞️ ~~Looking to collaborate/work on any data science related projects.~~
 - 🥅 2022 Goals: Read 15 non-finction books and become Emotionally Intelligent. 
-- ⚡ More about me on my [webpage](https://shukkkur.github.io/)
+- ⚡ Superpower I wish I had: stay focused 🎯 
+- 💫 More about me on my [webpage](https://shukkkur.github.io/)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shukkkur&theme=tokyonight) 
 <!--  &hide=javascript,css,scss,html -->
