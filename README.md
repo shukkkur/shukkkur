@@ -9,7 +9,7 @@
 - 📖 Currently reading "Family & Islam", "Contemporary Ethics", "Psycology of Money" and "Critique of Judgement" by I. Kant.
 - 💞️ ~~Looking to collaborate/work on any data science related projects.~~
 - 🥅 2022 Goals: Read 15 non-finction books and become Emotionally Intelligent. 
-- ⚡ Superpower: staying focused for more than 25 minutes
+- ⚡ Superpower I wish I had: staying focused for more than 25 minutes
 - 🌎 Born in Tajikistan 🇹🇯, live in Russia 🇷🇺, study in Kyrgyzstan 🇰🇬 and dream about 🇯🇵 🇨🇦 🇬🇧 🇵🇱
 - 💫 More about me on my [webpage](https://shukkkur.github.io/)
 
