@@ -54,7 +54,7 @@
 
 <br>
 
-[linkedin]: www.linkedin.com/in/shukkkur
+[linkedin]: https://www.linkedin.com/in/shukkkur/
 [instagram]: https://www.instagram.com/shukkkkkur/
 [outlook]: shakhansho.sabzaliev_2023@ucentralasia.org
 [codeforces]: https://codeforces.com/profile/Shukkkur
