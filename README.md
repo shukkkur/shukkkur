@@ -5,8 +5,8 @@
 </p>
 
 - 👀 I’m interested in Computer Vision, Statistics, Morality and Volleyball.
-- 🌱 I’m currently learning statistics, django, python for data analysis, how to write with my right hand, Kyrgyz and Persian languages. 
-- 📖 Currently reading "Family & Islam", "Contemporary Ethics", "Psycology of Money" and "Critique of Judgement" by I. Kant.
+- 🌱 I’m currently learning statistics, deep learning, how to write with my right hand and Persian language. 
+- 📖 [Currently reading](https://github.com/shukkkur/Bookshelves) "Family & Islam", "Contemporary Ethics", "Aristotele", "Psycology of Money" and "Critique of Judgement" by I. Kant.
 - 💞️ ~~Looking to collaborate/work on any data science related projects.~~
 - 🥅 2022 Goals: Read 15 non-finction books and become Emotionally Intelligent. 
 - ⚡ Superpower I wish I had: staying focused for more than 25 minutes
