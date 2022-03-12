@@ -9,7 +9,7 @@
 - 💞️ ~~Looking to collaborate/work on any data science related projects.~~
 - ⚡ Superpower I wish I had: staying focused for more than 25 minutes
 - 🌎 Born in Tajikistan 🇹🇯 Live in Russia 🇷🇺 Study in Kyrgyzstan 🇰🇬 and dream about 🇯🇵 🇨🇦 🇬🇧 🇵🇱
-- 💫 More about my professional self on my [webpage](https://shukkkur.github.io/) and my inner-self [here](https://github.com/shukkkur/myself)
+- 💫 More about my professional self on my [webpage](https://shukkkur.github.io/) and my inner-self [here](https://shukkkur.github.io/myself/)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shukkkur&theme=tokyonight) 
 <!--  &hide=javascript,css,scss,html -->
