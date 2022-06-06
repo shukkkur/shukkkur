@@ -42,6 +42,7 @@
 ### Feel Free to Connect with me:
 
 [<img align="left" alt="linkedin" width="24px" src="https://mekes.com/app/uploads/2020/12/linkedin-logo.png" />][linkedin]
+[<img align="left" alt="whatsapp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" />][whatsapp]
 [<img align="left" alt="Instagram" width="25px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 [<img align="left" alt="Stackoverflow" width="22px" src="https://cdn.worldvectorlogo.com/logos/vk-com-logo.svg" />][vk]
 [<img align="left" alt="Outlook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" />](mailto:shakhansho.sabzaliev_2023@ucentralasia.org)
@@ -52,7 +53,10 @@
 
 <br>
 
+
+
 [linkedin]: https://www.linkedin.com/in/shukkkur/
+[whatsapp]: https://wa.me/79014077195
 [instagram]: https://www.instagram.com/shukkkkkur/
 [outlook]: shakhansho.sabzaliev_2023@ucentralasia.org
 [codeforces]: https://codeforces.com/profile/Shukkkur
