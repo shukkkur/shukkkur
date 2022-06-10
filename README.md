@@ -11,7 +11,7 @@
 - 🌎 Born in Tajikistan 🇹🇯 Live in Russia 🇷🇺 Study in Kyrgyzstan 🇰🇬 and dream about 🇯🇵 🇨🇦 🇬🇧 🇵🇱
 - 💫 More about my professional self on my [webpage](https://shukkkur.github.io/) and my inner-self [here](https://shukkkur.github.io/myself/)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shukkkur&theme=tokyonight) 
+<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shukkkur&theme=tokyonight)  -->
 <!--  &hide=javascript,css,scss,html -->
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shukkkur" />
