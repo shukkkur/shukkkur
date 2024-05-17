@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Shukur</h2>
-<h3 align="center", padding-top=-1000>Today's Intern - Tomorrow's Full-stack ML Engineer</h3>
+<h3 align="center", padding-top=-1000>Today's Student - Tomorrow's Content Individual</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shukkkur"></a>
 </p>
