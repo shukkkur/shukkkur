@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Shukur</h2>
+<h2 align="center">Hi, I'm Shoansho</h2>
 <h3 align="center", padding-top=-1000>Today's Student - Tomorrow's <s>Data Scientist</s> Content Individual</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shukkkur"></a>
